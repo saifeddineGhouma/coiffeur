@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return 'welcome';
+    return 'welcome to edit this';
 });
