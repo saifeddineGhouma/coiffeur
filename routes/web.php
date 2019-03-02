@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return 'welcome to edit this';
 });
+Route::get('/test', function () {
+    return 'welcome';
+});
